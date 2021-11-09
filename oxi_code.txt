@@ -1,5 +1,5 @@
 Oxi_code
-1.Mendalami website
+
 2.belajar Design Animasi 
 3.belajar data base,php,myscl,firebase
 4.belajar android
