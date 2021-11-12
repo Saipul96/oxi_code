@@ -3,6 +3,9 @@ Rencana baru
 1.javascrpit
 *ES6
 *Framework javaScript
+-vue
+-react
 2.firebase
 3bootstrap 5
 4.laravel
+5.Phyton
