@@ -4,6 +4,7 @@ Rencana baru
 *ES6
 *Framework javaScript
 -vue
+-react
 2.firebase
 3bootstrap 5
 4.laravel
