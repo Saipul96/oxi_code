@@ -5,3 +5,4 @@ Rencana baru
 *Framework javaScript
 2.firebase
 3bootstrap 5
+4.laravel
