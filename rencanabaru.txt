@@ -8,4 +8,4 @@ Rencana baru
 2.firebase
 3bootstrap 5
 4.laravel
-5.Phyton
+5.Phyto
